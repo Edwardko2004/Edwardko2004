@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Edwardko2004
-- 👀 I’m interested in soccer, music, and volleyball!
-- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me: edwardko2004@gmail.com
 
